@@ -1,0 +1,16 @@
+{
+  "name": "算法",
+  "version": "1.0.0",
+  "description": "javascript的算法封装整理",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "yll1024335892@163.com",
+  "repository": {
+	  "type": "git",
+	  "url": "https://github.com/yll1024335892/yll_alg.git"
+  },
+  "license": "ISC"
+}
